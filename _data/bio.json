@@ -1,46 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Mason Daugherty",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://media.licdn.com/dms/image/D4E03AQGNrvoLZpd6dg/profile-displayphoto-shrink_800_800/0/1708393338201?e=1714003200&v=beta&t=-IrgWiYQQDvPTWJxtRew7DUNNyKWileCfCo0IezlWhI",
+    "email": "mdaugher@bowdoin.edu",
+    "phone": "(469) 431-4505",
+    "website": "https://mdrxy.github.io",
+    "summary": "I am studying for a B.A. in both Computer Science and Digital & Computational Studies at Bowdoin College. I expect to graduate in May, 2025.",
+    "location": { "address": "1368 Smith Un", "postalCode": "04011", "city": "Brunswick", "countryCode": "USA", "region": "Maine" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "https://github.com/mdrxy" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://linkedin.com/in/mdrxy" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Neuromorphic Computing" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Python", "Java", "HTML", "CSS", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Docker", "Linux", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Bowdoin College, Brunswick, ME",
+      "area": "Computer Science, Digital & Computational Studies (expected May, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2021-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Artificial Intelligence", "Data Structures", "Digital Text Analysis", "Cognitive Architecture", "Foundations of Computer Systems", "Human-Computer Interaction", "Software Engineering", "Theory of Computation", "Tech and the Common Good" ]
     }
   ],
   "work": [
